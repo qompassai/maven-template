@@ -1,0 +1,12 @@
+<!-- pom.xml — smallest useful Maven project. Build: mvn package -->
+<!-- Docs: https://maven.apache.org/guides/ -->
+<project xmlns="http://maven.apache.org/POM/4.0.0">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>dev.qompassai</groupId>
+  <artifactId>hello</artifactId>
+  <version>0.1.0</version>
+  <properties>
+    <maven.compiler.release>21</maven.compiler.release>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+  </properties>
+</project>
